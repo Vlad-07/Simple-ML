@@ -50,8 +50,8 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
-    <OutDir>..\bin\Debug-windows-x86_64\Simple-ML-Repo\</OutDir>
-    <IntDir>..\bin-int\Debug-windows-x86_64\Simple-ML-Repo\</IntDir>
+    <OutDir>..\bin\Release-windows-x86_64\Simple-ML-Repo\</OutDir>
+    <IntDir>..\bin-int\Release-windows-x86_64\Simple-ML-Repo\</IntDir>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
